@@ -1,0 +1,15 @@
+.keyword{
+    color: #47A2ED;
+}
+.class-name{
+    color: #47CCB1;
+}
+.string-literal{
+    color: #CD9069 ;
+}
+.function-def {
+    color: #E6E6AA;
+}
+.variable-name{
+    color: #94DBFD;
+}
